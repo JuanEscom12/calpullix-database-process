@@ -1,0 +1,9 @@
+spring:
+  application: 
+    name: calpullix-database-process
+  config:
+    name: '${spring.application.name}'
+  cloud:
+    config:
+      url: http://localhost:8888
+      

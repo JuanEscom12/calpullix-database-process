@@ -1,0 +1,10 @@
+Tonatico #264 Las Fuentes,25,911.2,10000,Antonio Garza Nuñez,H
+Allende #290 Alamos,28,911.2,10000,Jesus Gutierrez Manriquez,H
+Villa Victoria #980 Pirules,31,911.2,10000,Rodrigo Nieves Maya,H
+Toledo #75 Portales,35,911.2,10000,Jaime Covarrubias Lopez,H
+Roble #171 Nueva Santa Maria,37,911.2,10000,Sergio Luengas Bustamante,H
+Sarco #87 Villa,41,911.2,10000,Ricardo Garcia Anatole,H
+Norte 40 #1250 Vallejo,40,911.2,10000,Mariana Romo Vivar,M
+Sagitario #19 Tio Sam,29,911.2,10000,Guadalupe Villegas Cortes,M
+Pantitlan #219 Arenal,38,911.2,10000,Tania Morelos Chaidez,M
+Calle 2 #450 Aereopuerto,35,911.2,10000,Marisol Ramirez Cruz,M

@@ -1,0 +1,17 @@
+Cloralex
+Insecticida Doméstico H-24
+Queso Fresco Panela Los Volcanes|Queso Fresco Panela Los Volcanes (500 Grs)|16|500|1|true|false|false|7|6 x 6x 7 cm|volcanes_panela|jpeg
+Yogurth LaLa|Yogurth LaLa (150 Grs)|15|150|1|true|false|false|7|5 x 3.5 x 2 cm|yogurth_lala|jpeg
+Avena 3 Estrellas|Avena 3 Estrellas|11|1000|1|true|false|false|8|15 x 6 x 5 cm|avena_tresestrellas|jpeg
+Hojuelas de Maíz Naturales Corn Flakes|Hojuelas de Maíz Naturales Corn Flakes (560 Grs)|6|560|1|true|false|false|8|30 x 6 x 5 cm|cornflakes|jpeg
+Lenteja Verde Valle|Lenteja Verde Valle (500 Grs)|10|500|1|true|false|false|8|5 x 6 x 3 cm|lentejavalle|jpeg
+Arroz Verde Valle|Arroz Verde Valle|10|1000|1|true|false|false|8|5 x 6 x 3 cm|verdevalle|jpeg
+Chorizo Cantinpalo|Chorizo Cantinpalo|15|1000|1|true|false|false|9|5 x 6 x 4 cm|chorizo|jpeg
+Jamón Virginia FUD|Jamón Virginia FUD|17|1000|1|true|false|false|9|7 x 7 x 3 cm|jamon_fud|jpeg
+Mantequilla Iberia|Mantequilla Iberia (90 Grs)|17|90|1|true|false|false|9|5 x 2 x 2 cm|iberia|png
+Salchichas FUD|Salchichas FUD Hot Dog|17|1000|1|true|false|false|9|7 x 7 x 3 cm|salchicha_fud|jpeg
+Toallas Sanitarias Kotex Free Soft|Toallas Sanitarias Kotex Free Soft (14 pzas)|4|200|1|true|false|false|2|7 x 5 x 5 cm|toallas|jpeg
+Focos 60 Watts Ahorradores|Focos 60 Watts Ahorradores|9|50|1|true|false|true|10|5 x 4 x 4 cm|foco|jpeg
+Pañales Desechables 1era. Etapa Kleen Bebe|Pañales Desechables 1era. Etapa Kleen Bebé (32 Pzas)|4|500|1|true|false|false|10|40 x 30 x 10 cm|panal|jpeg
+Pilas Duracell AA|Pilas Duracell AA (4 Pzas)|18|300|1|true|false|false|10|5 x 4 x 2 cm|duracell|jpeg
+Servilletas Pétalo|Servilletas Pétalo 250 Hojas|4|300|1|true|false|false|10|20 x 10 x 8 cm|petalo|jpeg

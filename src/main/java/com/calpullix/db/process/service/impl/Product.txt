@@ -1,0 +1,30 @@
+Desodorante Obao|Desodorante Roll On Obao (65 ml)|2|65|2|true|false|false|1|4 x 4 x 8 cm|obao|png
+Detergente Salvo|Detergente Lavatrastes Salvo Kg|1|1000|1|true|false|false|6|15 x 10 x 3 cm|salvo|jpeg
+Detergente Roma|Detergente en polvo Roma Kg 25.58|1|1000|1|true|false|false|6|15 x 10 x 3 cm|roma|jpeg
+Jabón Zote|Jabón de Lavanderia Zote (400grs) Pieza|13|400|1|true|false|false|6|10 x 5 x 4 cm|zote|png
+Jabón Palmolive|Jabón de Tocador Palmolive (200Grs)|3|200|1|true|false|false|1|5 X 3.5 x 2 cm|palmolive|jpeg
+Papel Petalo|Papel Sanitario Pétalo (4 Rollos) Paquete|4|200|1|true|false|false|2|20 x 10 x 5 cm|petalo|png
+Pasta Crest|Pasta Dental Crest (100 ml) Pieza|3|100|2|true|false|false|2|10 x 3.5 x 3.5 cm|crest|jpg
+Rastrillo Guillete|Rastrillo Desechable Guillete Pieza|14|300|1|true|false|false|2|12 x 5 x 1 cm|guillete|png
+Shampoo Vanart|Shampoo Vanart (900 ml) Frasco|5|900|2|true|false|false|1|25 x 7 x 4 cm|vanart|jpeg
+Aceite (1-2-3)|Aceite (1-2-3) Litro|6|1000|2|true|false|false|5|25 x 6 x 6 cm|123|png
+Gerber Etapa 1|Alimento para bebé Gerber Etapa 1 Frasco|7|200|1|true|false|true|11|4 x 4 x 5 cm|gerber|png
+Atún Dolores|Atún en Aceite Dolores o Nair (140Grs) Lata|6|140|1|true|false|false|11|5 x 5 x 3 cm|dolores|jpg
+Azucar|Azúcar Kg 20.13|9|1000|1|true|false|false|5|10 x 6 x 1.5 cm|azucar|jpg
+Café Portales|Café de Grano Portales (908 Grs) Frasco|7|908|1|true|false|true|5|6 x 6 x 10 cm|portales|jpg
+Café Nescafé|Café Soluble Nescafé (95 Grs) Frasco|7|95|1|true|false|true|5|4 x 3 x 1 cm|nescafe|jpeg
+Cajeta Coronado|Cajeta Coronado (550 Grs) Frasco|8|550|1|true|false|true|11|3.5 x 3.5 x 17 cm|coronado|png
+Chiles La Costeña|Chiles jalapeños La Costeña (220Grs) Lata|10|220|1||true|false|false|11|3 x 3 x 5 cm|costena|jpeg
+Chocolate Choco Milk|Chocolate Choco Milk en Polvo (800 Grs) Bolsa|7|800|1|true|false|false|5|12 x 5 x 1.5 cm|chocoMilk|jpeg
+Chocolate Ibarra|Chocolate Ibarra Barra (540 Grs) Caja|7|540|1|true|false|false|5|5 x 5 x 2 cm|ibarra|jpg
+Concentrado Knorr Suiza|Concentrado de Pollo, Knorr Suiza(450 Grs) Frasco|6|450|1|true|false|false|5|4.5 x 4.5 x 6 cm|knorr|jpg
+Galletas María|Galletas María Gamesa (850 Grs) Kg|11|850|1|true|false|false|5|3 x 3 x 15 cm|marias|png
+Gelatina D’gari|Gelatina D’gari 140 Grs Bolsa|11|140|1|true|false|false|5|5 x 3.5 x 2 cm|dGari|png
+Harina Minsa|Harina de Maíz Minsa Kg|11|1000|1|true|false|false|5|15 x 6 x 5 cm|hinsa|jpeg
+Tres Estrellas Harina|Harina de Trigo Tres Estrellas Kg|11|1000|1|true|false|false|5|5 x 6 x 5 cm|tresEstrellas|jpg
+Huevo Blanco|Huevo Blanco Kg|9|1000|1|true|false|false|5|20 x 5 x 7 cm|huevos|jpeg
+Leche Condensada Nestlé|Leche Condensada Nestlé (397Grs) Lata|7|397|1|true|false|true|7|6 x 6x 7 cm|condensada|jpg
+Leche en Polvo Nido|Leche en Polvo Nido (360 Grs) Lata|7|360|1|true|false|false|7|7 x 7 x 15 cm|nido|png
+Leche Carnation Clavel|Leche Evaporada Carnation Clavel (470 Grs) Lata|7|470|1|true|false|false|7|7 x 7 x 10 cm|carnation|png
+Mayonesa Mc Cormick|Mayonesa Mc Cormick (390 Grs) Frasco|12|390|1|true|false|false|11|5 x 5 x 10 cm|mayonesaMcCormick|png
+Mermelada Mc Cormick|Mermelada Mc Cormick (350 Grs) Frasco|12|350|1|true|false|true|11|5 x 5 x 10 cm|mermeladaMcCormick|jpeg
